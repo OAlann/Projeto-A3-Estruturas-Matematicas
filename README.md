@@ -21,6 +21,7 @@ Uma calculadora de matrizes moderna e interativa, desenvolvida com HTML, CSS (Bo
 ## 📁 Estrutura de Arquivos
 
 calculadora-matrizes-v2/ 
+
 ├── index.html # Interface da calculadora
 
 ├── style.css # Estilos customizados (opcional) 
