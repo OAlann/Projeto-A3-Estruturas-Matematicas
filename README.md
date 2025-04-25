@@ -3,19 +3,19 @@
 Uma calculadora de matrizes moderna e interativa, desenvolvida com HTML, CSS (Bootstrap) e JavaScript. Permite realizar **soma**, **subtração** e **multiplicação** de matrizes de qualquer dimensão compatível.
 
 ![preview](https://via.placeholder.com/800x400.png?text=Calculadora+de+Matrizes+Preview)
-
+![preview](image.png)
 ---
 
 ## 🚀 Funcionalidades
 
-- Geração dinâmica de matrizes de qualquer tamanho.
-- Operações:
-  - ✅ Soma
-  - ✅ Subtração
-  - ✅ Multiplicação
-- Validação de compatibilidade entre as matrizes.
-- Interface responsiva com Bootstrap.
-- Mensagens de erro claras e intuitivas.
+- Interface amigável com Bootstrap 5
+- Entrada dinâmica de matrizes até 10x10
+- Soma de matrizes (A + B)
+- Subtração de matrizes (A - B)
+- Multiplicação de matrizes (A × B)
+- Transposição (Aᵗ e Bᵗ)
+- Determinante (2×2 e 3×3)
+- Validação de matrizes compatíveis
 
 ---
 
@@ -26,6 +26,11 @@ calculadora-matrizes-v2/
 ├── style.css # Estilos customizados (opcional) 
 └── script.js # Lógica JavaScript para as operações
 
+## 📚 Tecnologias usadas
+
+- HTML5
+- CSS3 (Bootstrap 5)
+- JavaScript (Vanilla)
 
 ---
 
@@ -64,8 +69,6 @@ Este projeto foi desenvolvido para unir conceitos de:
 
 ## ✨ Próximas Melhorias
 
-- [ ] Cálculo de determinantes
-- [ ] Transposição de matrizes
 - [ ] Interface dark mode
 - [ ] Botão de "Limpar tudo"
 - [ ] Exportar para PDF/CSV
