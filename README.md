@@ -22,7 +22,9 @@ Uma calculadora de matrizes moderna e interativa, desenvolvida com HTML, CSS (Bo
 
 calculadora-matrizes-v2/ 
 ├── index.html # Interface da calculadora
+
 ├── style.css # Estilos customizados (opcional) 
+
 └── script.js # Lógica JavaScript para as operações
 
 ## 📚 Tecnologias usadas
