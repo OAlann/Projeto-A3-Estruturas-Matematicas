@@ -2,7 +2,7 @@
 
 Uma calculadora de matrizes moderna e interativa, desenvolvida com HTML, CSS (Bootstrap) e JavaScript. Permite realizar **soma**, **subtração** e **multiplicação** de matrizes de qualquer dimensão compatível.
 
-![preview](preview.png)
+![preview]([preview.png](https://github.com/OAlann/Projeto-A3-Estruturas-Matematicas/blob/main/preview.PNG?raw=true))
 ---
 
 ## 🚀 Funcionalidades
