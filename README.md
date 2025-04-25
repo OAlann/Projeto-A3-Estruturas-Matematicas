@@ -44,9 +44,6 @@ calculadora-matrizes-v2/
 4. Clique em **Gerar Matrizes**
 5. Insira os valores nas matrizes A e B
 6. Escolha a operação desejada:
-   - Somar
-   - Subtrair
-   - Multiplicar
 7. Veja o resultado na tela
 
 ---
